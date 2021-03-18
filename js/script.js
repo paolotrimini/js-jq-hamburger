@@ -7,7 +7,7 @@
 
 $('.fas').click(function() { // azione (click)
 
-    $(".hamburger-menu").addClass('active'); // "aggiungo" classe 'active'
+    $('.hamburger-menu').addClass('active'); // "aggiungo" classe 'active'
 });
 
 // Nascondo il menu
