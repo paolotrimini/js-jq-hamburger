@@ -3,14 +3,12 @@
 // Scrivere solo la parte con jQuery senza modiﬁcare HTML e CSS.
 
 
-
 // Visualizzo il menu
 
 $('.fas').click(function() { // azione (click)
 
     $(".hamburger-menu").addClass('active'); // "aggiungo" classe 'active'
 });
-
 
 // Nascondo il menu
 
